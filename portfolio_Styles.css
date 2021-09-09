@@ -1,0 +1,16 @@
+.row{
+    display: flex;
+    color: #FFFFFF;
+}
+.col{
+    flex: 50%;
+}
+img {
+    border-radius: 50%;
+    width: 30%;
+    height: auto;
+}
+body{
+    color: #FFFFFF;
+    background-color: #FC0404
+}
