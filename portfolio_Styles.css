@@ -1,6 +1,6 @@
 .row{
     display: flex;
-    color: #FFFFFF;
+    color: #DC5639;
 }
 .col{
     flex: 50%;
@@ -11,6 +11,6 @@ img {
     height: auto;
 }
 body{
-    color: #FFFFFF;
-    background-color: #FC0404
+    color: #DC5639;
+    background-color: #FEDD46
 }
