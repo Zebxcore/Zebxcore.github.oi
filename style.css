@@ -37,6 +37,9 @@ ul{
     text-align: center;
     font-weight: bolder;
 }
+.done{
+    text-decoration: line-through;
+}
 
 
 #main-header{
