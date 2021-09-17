@@ -20,6 +20,11 @@ ul{
     margin: 20px 0;
     padding-left: 40px;
 }
+footer{
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
 
 
 .row{
