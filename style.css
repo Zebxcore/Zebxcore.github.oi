@@ -40,6 +40,9 @@ ul{
 .done{
     text-decoration: line-through;
 }
+.see-more-link{
+    float: right;
+}
 
 
 #main-header{
